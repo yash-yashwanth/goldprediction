@@ -95,3 +95,4 @@ st.markdown(
     "<center>Built with ❤️ using Streamlit | Inspired by Swiggy’s clean design</center>",
     unsafe_allow_html=True
 )
+
